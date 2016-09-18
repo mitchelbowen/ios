@@ -13,7 +13,7 @@
 
 - Bug fixings 
 
-
+-iOS 10 support 
 
 ## 3.4.9 (May 2016)
 - Sort by date or alphabetically
